@@ -1,0 +1,16 @@
+{
+    "namespace": "SxaStarter-Content",
+    "references": [ "SxaStarter" ],
+    "items": {
+        "includes": [
+            {
+                "name": "sxa-content",
+                "path": "/sitecore/content/sxastarter"
+            },
+            {
+                "name": "sxa-media",
+                "path": "/sitecore/media library/Project/sxastarter"
+            }
+        ]
+    }
+}

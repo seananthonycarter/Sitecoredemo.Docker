@@ -1,0 +1,39 @@
+{
+    "namespace": "InitItems",
+    "items" : {
+        "includes": [
+            {
+                "name": "content-root",
+                "path": "/sitecore/content",
+                "scope": "singleItem",
+                "allowedPushOperations": "createAndUpdate"
+            },
+            {
+                "name": "api-key",
+                "path": "/sitecore/system/Settings/Services/API Keys/DockerStarter",
+                "scope": "singleItem"
+            },
+            {
+                "name": "rendering-host",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
+                "scope": "singleItem"
+            },
+            {
+                "name": "language",
+                "path": "/sitecore/system/Languages/ja-JP",
+                "scope": "singleItem"
+            },
+            {
+                "name": "core-language",
+                "path": "/sitecore/system/Languages",
+                "database": "core"
+            },
+            {
+                "name": "powershell-report",
+                "path": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/ContentEditing/PowerShell Reports",
+                "scope": "singleItem",
+                "database": "core"
+            }       
+        ]
+    }
+}

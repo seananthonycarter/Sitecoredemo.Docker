@@ -1,0 +1,24 @@
+{
+    "namespace": "SxaStarter",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "sxa-layouts",
+                "path": "/sitecore/layout/Layouts/Project"
+            },
+            {
+                "name": "sxa-placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/sxastarter"
+            },
+            {
+                "name": "sxa-renderings",
+                "path": "/sitecore/layout/Renderings/Project/sxastarter"
+            },
+            {
+                "name": "sxa-templates",
+                "path": "/sitecore/templates/Project/sxastarter"
+            }
+        ]
+    }
+}

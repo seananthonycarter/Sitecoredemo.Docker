@@ -1,0 +1,31 @@
+﻿---
+ID: "dffee92b-0441-45a4-9207-67810b72bd46"
+Parent: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
+Template: "bc71d442-3e4f-46ba-887c-746e54f9bb83"
+Path: /sitecore/system/Settings/Services/Rendering Hosts/Default
+SharedFields:
+- ID: "3121c257-53cf-464a-b736-98b418876057"
+  Hint: AppName
+  Value: "sxastarter"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220614T103029Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ce5d8b3-a775-4ef7-964c-ccbdc97b41f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230111T073842Z

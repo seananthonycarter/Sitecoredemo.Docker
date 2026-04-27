@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitecore>
+  <phrase key="Any changes done to the item in the content editor will be overridden if the item is synchronized again from Content Hub">
+    <ja-JP>Content Hubからアイテムを再同期すると、コンテンツエディタでアイテムに加えられた変更は上書きされます</ja-JP>
+  </phrase>
+  <phrase key="This item is synchronized from a Content Hub Entity">
+    <ja-JP>このアイテムはContent Hubのエンティティから同期されています</ja-JP>
+  </phrase>
+</sitecore>

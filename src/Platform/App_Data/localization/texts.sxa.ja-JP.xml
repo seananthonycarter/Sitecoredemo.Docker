@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitecore>
+  <phrase key="{0} Role">
+    <ja-JP>{0}ロール</ja-JP>
+  </phrase>
+  <phrase key="&quot;{0}&quot; is a site collection folder. If you delete it, all site collections with associated templates, sites, settings, and media assets will also be deleted.">
+    <ja-JP>「{0}」はサイト コレクションフォルダです。これを削除すると、関連するテンプレート、サイト、設定、メディアアセットを含むすべてのサイトコレクションも削除されます。</ja-JP>
+  </phrase>
+  <phrase key="&quot;{0}&quot; is a site collection. If you delete it, all associated templates, sites, settings, and media assets are also deleted.">
+    <ja-JP>「{0}」はサイトコレクションです。これを削除すると、関連するすべてのテンプレート、サイト、設定、メディアアセットも削除されます。</ja-JP>
+  </phrase>
+  <phrase key="&quot;{0}&quot; is a site group. If you delete it, all sites within the group including settings and media assets will also be deleted.">
+    <ja-JP>"{0}" はサイト グループです。これを削除した場合、設定およびメディア資産を含むグループ内の全てのサイトも削除されます。</ja-JP>
+  </phrase>
+  <phrase key="&quot;{0}&quot; is a site. If you delete it, all settings and media assets will also be deleted.">
+    <ja-JP>"{0}" はサイトです。これを削除した場合、全ての設定およびメディア資産も削除されます。</ja-JP>
+  </phrase>
+  <phrase key="[{0}]">
+    <ja-JP>[{0}]</ja-JP>
+  </phrase>
+  <phrase key="{0} field">
+    <ja-JP>{0}フィールド</ja-JP>
+  </phrase>
+  <phrase key="{0} is not a valid name.">
+    <ja-JP>{0}' は無効な名前です</ja-JP>
+  </phrase>
+  <phrase key="'{0}' is not a valid name.">
+    <ja-JP>{0}' は無効な名前です</ja-JP>
+  </phrase>
+  <phrase key="'{0}' is not a valid solution name.">
+    <ja-JP>「{0}」は有効なソリューション名ではありません。</ja-JP>
+  </phrase>
+  <phrase key="{0} on item {1} relinked from {2} to {3}.">
+    <ja-JP>アイテム {1} の {0} は、{2} から {3} に再リンクしました。</ja-JP>
+  </phrase>
+  <phrase key="{0} page is in a delegated area. Ignoring the file.">
+    <ja-JP>{0} ページはデリゲート エリアにあります。ファイルを無視しています。</ja-JP>
+  </phrase>
+  <phrase key="{0} page: body classes changed from {1} to {2}.">
+    <ja-JP>{0} ページ: body クラスは {1} から {2} に変更しました。</ja-JP>
+  </phrase>
+  <phrase key="{0} page: body id changed from {1} to {2}.">
+    <ja-JP>{0} ページ: body id は {1} から {2} に変更しました。</ja-JP>
+  </phrase>
+  <phrase key="{0} security roles">
+    <ja-JP>{0} セキュリティ ロール</ja-JP>
+  </phrase>
+  <phrase key="A component with that name already exists.">
+    <ja-JP>同じ名前のコンポーネントがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A module with this name already exists.">
+    <ja-JP>同じ名前のモジュールがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A rendering view with this name already exists.">
+    <ja-JP>同じ名前のレンダリング ビューがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A rendering with this name already exists.">
+    <ja-JP>同じ名前のレンダリングがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A site collection with that name already exists.">
+    <ja-JP>同じ名前のサイトコレクションがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A site with that name already exists.">
+    <ja-JP>同じ名前のサイトがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A solution with that name already exists.">
+    <ja-JP>その名前のソリューションはすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="A test must contain at least two variations. When you have defined the variations, in the ribbon, click the 'Testing' tab and then start the test.">
+    <ja-JP>テストには少なくとも2つのバリエーションが含まれている必要があります。 バリエーションを定義したら、リボンで[テスト]タブをクリックしてからテストを開始します。</ja-JP>
+  </phrase>
+  <phrase key="Accessibility">
+    <ja-JP>アクセシビリティ</ja-JP>
+  </phrase>
+  <phrase key="Accordion">
+    <ja-JP>アコーディオン</ja-JP>
+  </phrase>
+  <phrase key="Active">
+    <ja-JP>アクティブ</ja-JP>
+  </phrase>
+  <phrase key="Active browser">
+    <ja-JP>アクティブ ブラウザー</ja-JP>
+  </phrase>
+  <phrase key="Add a module by entering the name, location, system areas, and scaffolding actions">
+    <ja-JP>名前、ロケーション、システム エリア、スキャフォールディング アクションを入力しモジュールを追加</ja-JP>
+  </phrase>
+  <phrase key="Add a module to the {0} site">
+    <ja-JP>モジュールを {0} サイトに追加</ja-JP>
+  </phrase>
+  <phrase key="Add a module to the {0} site collection">
+    <ja-JP>モジュールをサイトコレクション{0}に追加</ja-JP>
+  </phrase>
+  <phrase key="Add language to the site">
+    <ja-JP>サイトに言語を追加します</ja-JP>
+  </phrase>
+  <phrase key="Add module to site">
+    <ja-JP>サイトにモジュールを追加</ja-JP>
+  </phrase>
+  <phrase key="Add module to the site collection">
+    <ja-JP>サイトコレクションにモジュールを追加</ja-JP>
+  </phrase>
+  <phrase key="Add Standard Value to site">
+    <ja-JP>サイトに標準値を追加</ja-JP>
+  </phrase>
+  <phrase key="Add to module">
+    <ja-JP>モジュールに追加</ja-JP>
+  </phrase>
+  <phrase key="Add to module group">
+    <ja-JP>モジュール グループに追加</ja-JP>
+  </phrase>
+  <phrase key="Add to placeholder:">
+    <ja-JP>プレースホルダーに追加：</ja-JP>
+  </phrase>
+  <phrase key="Adding items from scaffolding actions">
+    <ja-JP>スキャフォールディング アクションからアイテムを追加中</ja-JP>
+  </phrase>
+  <phrase key="Adding site collection module">
+    <ja-JP>サイトコレクションモジュールを追加中</ja-JP>
+  </phrase>
+  <phrase key="Adding site collection templates">
+    <ja-JP>サイトコレクションテンプレートを追加中</ja-JP>
+  </phrase>
+  <phrase key="Adding site module">
+    <ja-JP>サイト モジュールを追加中</ja-JP>
+  </phrase>
+  <phrase key="Adding Standard Value for: '{0}' template">
+    <ja-JP>標準値の追加: '{0}' テンプレート</ja-JP>
+  </phrase>
+  <phrase key="Adding Standard Values">
+    <ja-JP>標準値の追加</ja-JP>
+  </phrase>
+  <phrase key="Additional compatible templates">
+    <ja-JP>追加互換性のあるテンプレート</ja-JP>
+  </phrase>
+  <phrase key="Advanced">
+    <ja-JP>高度な設定</ja-JP>
+  </phrase>
+  <phrase key="Agency drop (preview mode, importable)">
+    <ja-JP>エージェンシー ドロップ （プレビュー モード、インポート可能）</ja-JP>
+  </phrase>
+  <phrase key="agenda day">
+    <ja-JP>1日のアジェンダ</ja-JP>
+  </phrase>
+  <phrase key="agenda week">
+    <ja-JP>1s週間のアジェンダ</ja-JP>
+  </phrase>
+  <phrase key="Aggregated Facet Filter">
+    <ja-JP>集計済みファセット フィルター</ja-JP>
+  </phrase>
+  <phrase key="Allowed controls:">
+    <ja-JP>許可されたコントロール:</ja-JP>
+  </phrase>
+  <phrase key="Alternate text:">
+    <ja-JP>代替テキスト：</ja-JP>
+  </phrase>
+  <phrase key="An error occured while importing a page in file: {0}">
+    <ja-JP>ファイル: {0} のページをインポート中にエラーが発生しました。</ja-JP>
+  </phrase>
+  <phrase key="An error occured while importing a rendering in file: {0}">
+    <ja-JP>ファイル: {0} のレンダリングをインポート中にエラーが発生しました。</ja-JP>
+  </phrase>
+  <phrase key="An item with that name already exists.">
+    <ja-JP>同じ名前のアイテムがすでに存在します。</ja-JP>
+  </phrase>
+  <phrase key="Analytics">
+    <ja-JP>アナリティクス</ja-JP>
+  </phrase>
+  <phrase key="Anchor">
+    <ja-JP>アンカー</ja-JP>
+  </phrase>
+  <phrase key="Anchor:">
+    <ja-JP>アンカー：</ja-JP>
+  </phrase>
+  <phrase key="Applying site collection templates to items">
+    <ja-JP>アイテムへのサイトコレクションテンプレートを適用中</ja-JP>
+  </phrase>
+  <phrase key="Archive">
+    <ja-JP>アーカイブ</ja-JP>
+  </phrase>
+  <phrase key="Are you sure you want to continue without assigning a site theme?">
+    <ja-JP>本当にサイト テーマを割り当てずに続けますか？</ja-JP>
+  </phrase>
+  <phrase key="Are you sure you want to delete {0}?">
+    <ja-JP>本当に “{0}” を削除してもよろしいですか？</ja-JP>
+  </phrase>
+  <phrase key="Are you sure you want to delete all additional media items?">
+    <ja-JP>本当に全ての追加のメディア アイテムを削除してもよろしいですか？</ja-JP>
+  </phrase>
+  <phrase key="Are you sure you want to delete this media item?">
+    <ja-JP>本当にこのメディア アイテムを削除してもよろしいですか？</ja-JP>
+  </phrase>
+  <phrase key="Arrange the content items in the order that you want. Use the buttons to move content items up or down or delete them. You can also drag and drop items to rearrange their sort order.">
+    <ja-JP>コンテンツ項目を好きな順序に並べてください。 ボタンを使用してコンテンツ項目を上下に移動するか、または削除します。 項目をドラッグアンドドロップして、並べ替え順序を変更することもできます。</ja-JP>
+  </phrase>
+  <phrase key="Asking for parameters">
+    <ja-JP>パラメーターを要求しています</ja-JP>
+  </phrase>
+  <phrase key="Assign">
+    <ja-JP>割り当て</ja-JP>
+  </phrase>
+  <phrase key="Author">
+    <ja-JP>編集者</ja-JP>
+  </phrase>
+  <phrase key="Author mode (edit mode, importable)">
+    <ja-JP>作成者モード （編集モード、インポート可能）</ja-JP>
+  </phrase>
+  <phrase key="Available controls:">
+    <ja-JP>利用可能なコントロール:</ja-JP>
+  </phrase>
+  <phrase key="Background image">
+    <ja-JP>背景画像</ja-JP>
+  </phrase>
+  <phrase key="Base data source template">
+    <ja-JP>ベース データ ソース テンプレート</ja-JP>
+  </phrase>
+  <phrase key="Base rendering parameters template">
+    <ja-JP>ベース レンダリング パラメーター テンプレート</ja-JP>
+  </phrase>
+  <phrase key="Basic">
+    <ja-JP>ベーシック</ja-JP>
+  </phrase>
+  <phrase key="Before you can configure the Rendering Parameters, you must specify the Rendering Item and save it.">
+    <ja-JP>レンダリングパラメータを設定する前に、レンダリング項目を指定して保存する必要があります。</ja-JP>
+  </phrase>
+  <phrase key="Behaviors">
+    <ja-JP>動作</ja-JP>
+  </phrase>
+  <phrase key="Branch">
+    <ja-JP>ブランチ</ja-JP>
+  </phrase>
+  <phrase key="Branch name">
+    <ja-JP>ブランチ名</ja-JP>
+  </phrase>
+  <phrase key="Breadcrumb">
+    <ja-JP>階層リンク</ja-JP>
+  </phrase>
+  <phrase key="Browse">
+    <ja-JP>参照</ja-JP>
+  </phrase>
+  <phrase key="BrowserTitle">
+    <ja-JP>ブラウザー タイトル</ja-JP>
+  </phrase>
+  <phrase key="Building new site dialog">
+    <ja-JP>新規のサイト ダイアログを作成しています</ja-JP>
+  </phrase>
+  <phrase key="Caching">
+    <ja-JP>キャッシング</ja-JP>
+  </phrase>
+  <phrase key="Caching:">
+    <ja-JP>キャッシング:</ja-JP>
+  </phrase>
+  <phrase key="Cancel">
+    <ja-JP>キャンセル</ja-JP>
+  </phrase>
+  <phrase key="CanonicalUrl">
+    <ja-JP>正規URL</ja-JP>
+  </phrase>
+  <phrase key="Carousel">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase key="Category">
+    <ja-JP>カテゴリー</ja-JP>
+  </phrase>
+  <phrase key="Checking upgrade steps">
+    <ja-JP>アップグレード手順を確認しています</ja-JP>
+  </phrase>
+  <phrase key="Checklist Filter">
+    <ja-JP>チェックリスト フィルター</ja-JP>
+  </phrase>
+  <phrase key="Cleanup styles folder">
+    <ja-JP>クリーンアップ スタイル フォルダー</ja-JP>
+  </phrase>
+  <phrase key="Cleanup subitems">
+    <ja-JP>サブアイテムをクリーン アップします</ja-JP>
+  </phrase>
+  <phrase key="Cleanup the page data folder.">
+    <ja-JP>ページ データ フォルダーをクリーンアップ</ja-JP>
+  </phrase>
+  <phrase key="Clear Filter">
+    <ja-JP>フィルターをクリア</ja-JP>
+  </phrase>
+  <phrase key="Click Close to close the wizard.">
+    <ja-JP>Close をクリックしてウィザードを閉じます。</ja-JP>
+  </phrase>
+  <phrase key="Clone a site">
+    <ja-JP>サイトのクローンを作成します</ja-JP>
+  </phrase>
+  <phrase key="Clone Current Content">
+    <ja-JP>現在のコンテンツのクローン</ja-JP>
+  </phrase>
+  <phrase key="Close">
+    <ja-JP>閉じる</ja-JP>
+  </phrase>
+  <phrase key="Close wizard">
+    <ja-JP>ウィザードを閉じる</ja-JP>
+  </phrase>
+  <phrase key="Column Splitter">
+    <ja-JP>列スプリッタ―</ja-JP>
+  </phrase>
+  <phrase key="Comment">
+    <ja-JP>コメント</ja-JP>
+  </phrase>
+  <phrase key="Completed">
+    <ja-JP>完了</ja-JP>
+  </phrase>
+  <phrase key="Compliancy">
+    <ja-JP>準拠</ja-JP>
+  </phrase>
+  <phrase key="Component name">
+    <ja-JP>コンポーネント名</ja-JP>
+  </phrase>
+  <phrase key="Component variants">
+    <ja-JP>コンポーネント バリアント</ja-JP>
+  </phrase>
+  <phrase key="Composites">
+    <ja-JP>複合</ja-JP>
+  </phrase>
+  <phrase key="Configure the site collection security first.">
+    <ja-JP>最初にサイトコレクションセキュリティを設定します。</ja-JP>
+  </phrase>
+  <phrase key="Configuring the site definition item">
+    <ja-JP>サイト定義アイテムを設定中</ja-JP>
+  </phrase>
+  <phrase key="Conflict">
+    <ja-JP>競合</ja-JP>
+  </phrase>
+  <phrase key="Container">
+    <ja-JP>コンテナー</ja-JP>
+  </phrase>
+  <phrase key="Context">
+    <ja-JP>コンテキスト</ja-JP>
+  </phrase>
+  <phrase key="Copy MVC view file (specify path below)">
+    <ja-JP>MVC ビュー ファイルをコピー（パスを以下に指定）</ja-JP>
+  </phrase>
+  <phrase key="Copy To">
+    <ja-JP>指定の場所にコピー</ja-JP>
+  </phrase>
+  <phrase key="Could not find any styles to remove.">
+    <ja-JP>削除するスタイルが見つかりませんでした。</ja-JP>
+  </phrase>
+  <phrase key="Could not instantiate import storage instance . Make sure your configuration is correct">
+    <ja-JP>インポート ストレージ インスタンスをインスタンス化できませんでした。設定が正しいことをご確認ください</ja-JP>
+  </phrase>
+  <phrase key="Create">
+    <ja-JP>作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new domain.">
+    <ja-JP>新しいドメインを作成する</ja-JP>
+  </phrase>
+  <phrase key="Create a new folder.">
+    <ja-JP>新規のフォルダーを作成します。</ja-JP>
+  </phrase>
+  <phrase key="Create a new headless module">
+    <ja-JP>新しいヘッドレスモジュールを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new Headless site">
+    <ja-JP>新しいヘッドレスサイトを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new headless site collection">
+    <ja-JP>新しいヘッドレスサイトコレクションを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new module">
+    <ja-JP>新しいモジュールを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new Page Branch">
+    <ja-JP>新しいページブランチを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new security domain.">
+    <ja-JP>新規のセキュリティ ドメインを作成します。</ja-JP>
+  </phrase>
+  <phrase key="Create a new SXA component">
+    <ja-JP>新しいSXAコンポーネントを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new SXA site">
+    <ja-JP>新しいSXAサイトを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new SXA site theme">
+    <ja-JP>新しいSXAサイト テーマを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a new theme">
+    <ja-JP>新しいテーマを作成</ja-JP>
+  </phrase>
+  <phrase key="Create a site collection">
+    <ja-JP>サイトコレクションを作成</ja-JP>
+  </phrase>
+  <phrase key="Create Component Settings">
+    <ja-JP>コンポーネントの設定を作成</ja-JP>
+  </phrase>
+  <phrase key="Create Component Theme Configuration">
+    <ja-JP>コンポーネントテーマの構成を作成</ja-JP>
+  </phrase>
+  <phrase key="Create Datasource Settings">
+    <ja-JP>データソース設定を作成します</ja-JP>
+  </phrase>
+  <phrase key="Create derivative rendering">
+    <ja-JP>派生レンダリングを作成</ja-JP>
+  </phrase>
+  <phrase key="Create New Content">
+    <ja-JP>新しいコンテンツを作成</ja-JP>
+  </phrase>
+  <phrase key="Create New Settings">
+    <ja-JP>新規の設定を作成します</ja-JP>
+  </phrase>
+  <phrase key="Create reusable test">
+    <ja-JP>再利用可能なテストを作成</ja-JP>
+  </phrase>
+  <phrase key="Create Standard Values">
+    <ja-JP>標準値の作成</ja-JP>
+  </phrase>
+  <phrase key="Creating a new site collection">
+    <ja-JP>新しいサイト コレクションを作成中</ja-JP>
+  </phrase>
+  <phrase key="Creating editing theme">
+    <ja-JP>編集テーマを作成しています</ja-JP>
+  </phrase>
+  <phrase key="Creating media library for the site collection">
+    <ja-JP>サイト コレクション用のメディアライブラリを作成中</ja-JP>
+  </phrase>
+  <phrase key="Creating new site">
+    <ja-JP>新規サイトを作成しています</ja-JP>
+  </phrase>
+  <phrase key="Creating shared media library">
+    <ja-JP>共有メディア ライブラリーを作成中</ja-JP>
+  </phrase>
+  <phrase key="Creating site collection item">
+    <ja-JP>サイトコレクションアイテムを作成中</ja-JP>
+  </phrase>
+  <phrase key="Creating site collection templates root">
+    <ja-JP>サイトコレクションテンプレートルートを作成中</ja-JP>
+  </phrase>
+  <phrase key="Creating site media library">
+    <ja-JP>サイト メディア ライブラリを作成しています</ja-JP>
+  </phrase>
+  <phrase key="Creating site theme">
+    <ja-JP>サイト テーマを作成しています</ja-JP>
+  </phrase>
+  <phrase key="Creating themes folder for the site collection">
+    <ja-JP>サイト コレクション用のテーマ フォルダを作成中</ja-JP>
+  </phrase>
+  <phrase key="Current site">
+    <ja-JP>現在のサイト</ja-JP>
+  </phrase>
+  <phrase key="Custom">
+    <ja-JP>Custom</ja-JP>
+  </phrase>
+  <phrase key="Custom:">
+    <ja-JP>カスタム</ja-JP>
+  </phrase>
+  <phrase key="Customize the rendering by entering the name, location, parameters, data sources, and/or HTML view.">
+    <ja-JP>名前、ロケーション、パラメーター、データ ソース および/または HTML ビューを入力することでレンダリングをカスタマイズ。</ja-JP>
+  </phrase>
+  <phrase key="CustomMetadata">
+    <ja-JP>カスタム メタデータ</ja-JP>
+  </phrase>
+  <phrase key="Data">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase key="Data source workflow did not succeed. &#xA;Item:">
+    <ja-JP>データソースのワークフローが失敗しました。
+アイテム：</ja-JP>
+  </phrase>
+  <phrase key="Datasource">
+    <ja-JP>Datasource</ja-JP>
+  </phrase>
+  <phrase key="Datasource templates">
+    <ja-JP>データソーステンプレート</ja-JP>
+  </phrase>
+  <phrase key="Datasources">
+    <ja-JP>データソース</ja-JP>
+  </phrase>
+  <phrase key="Date Filter">
+    <ja-JP>日付 フィルター</ja-JP>
+  </phrase>
+  <phrase key="Define the variations that you want to use in the multivariate test.">
+    <ja-JP>多変量テストに使用するバリエーションを定義してください。</ja-JP>
+  </phrase>
+  <phrase key="Definitions">
+    <ja-JP>定義</ja-JP>
+  </phrase>
+  <phrase key="Delete">
+    <ja-JP>削除</ja-JP>
+  </phrase>
+  <phrase key="Description">
+    <ja-JP>説明</ja-JP>
+  </phrase>
+  <phrase key="Desktop version">
+    <ja-JP>デスクトップ バージョン</ja-JP>
+  </phrase>
+  <phrase key="Device">
+    <ja-JP>デバイス</ja-JP>
+  </phrase>
+  <phrase key="Divider">
+    <ja-JP>分割線</ja-JP>
+  </phrase>
+  <phrase key="Do you want to continue?">
+    <ja-JP>続けますか？</ja-JP>
+  </phrase>
+  <phrase key="Do you want to copy the data source?">
+    <ja-JP>データ ソースをコピーしますか？</ja-JP>
+  </phrase>
+  <phrase key="Do you want to copy the subitems? Local page datasources will always be copied.">
+    <ja-JP>サブ項目をコピーしますか？ ローカルページデータソースは常にコピーされます。</ja-JP>
+  </phrase>
+  <phrase key="Do you want to install them now?">
+    <ja-JP>今すぐインストールしますか？</ja-JP>
+  </phrase>
+  <phrase key="Do you want to make this clone and its children an SXA delegated area?">
+    <ja-JP>このクローンおよび子を SXA デリゲート エリアにしますか？</ja-JP>
+  </phrase>
+  <phrase key="Domain already exits">
+    <ja-JP>ドメインはすでに存在しています</ja-JP>
+  </phrase>
+  <phrase key="Domain name">
+    <ja-JP>ドメイン名</ja-JP>
+  </phrase>
+  <phrase key="Download">
+    <ja-JP>ダウンロード</ja-JP>
+  </phrase>
+  <phrase key="Download the selected file">
+    <ja-JP>選択したファイルをダウンロード</ja-JP>
+  </phrase>
+  <phrase key="Download the site collection as a package.">
+    <ja-JP>サイトコレクションをパッケージとしてダウンロードします。</ja-JP>
+  </phrase>
+  <phrase key="Download zipped site">
+    <ja-JP>Zip 化されたサイトをダウンロード</ja-JP>
+  </phrase>
+  <phrase key="Dropdown Filter">
+    <ja-JP>ドロップダウン フィルター</ja-JP>
+  </phrase>
+  <phrase key="Dry run">
+    <ja-JP>ドライ ラン</ja-JP>
+  </phrase>
+  <phrase key="Dry run creates a log of all the changes that will be made. No changes will be performed.">
+    <ja-JP>ドライ ランは加えられる変更全てのログを作成します。変更は実行されません。</ja-JP>
+  </phrase>
+  <phrase key="Dynamic placeholders">
+    <ja-JP>ダイナミック プレースホルダー</ja-JP>
+  </phrase>
+  <phrase key="Edit">
+    <ja-JP>編集</ja-JP>
+  </phrase>
+  <phrase key="Edit Selected Settings">
+    <ja-JP>選択された設定を編集します</ja-JP>
+  </phrase>
+  <phrase key="Editable">
+    <ja-JP>編集可能</ja-JP>
+  </phrase>
+  <phrase key="Editing site collection templates">
+    <ja-JP>サイトコレクションテンプレートを編集中</ja-JP>
+  </phrase>
+  <phrase key="EditModePanel">
+    <ja-JP>編集モードパネル</ja-JP>
+  </phrase>
+  <phrase key="Enable variation of component design.">
+    <ja-JP>コンポーネント デザインのバリエーションを有効にする</ja-JP>
+  </phrase>
+  <phrase key="End-user site (normal mode, non-importable)">
+    <ja-JP>エンド ユーザー サイト （標準 モード、インポート不可）</ja-JP>
+  </phrase>
+  <phrase key="Engagement">
+    <ja-JP>エンゲージメント</ja-JP>
+  </phrase>
+  <phrase key="Enter new folder name">
+    <ja-JP>新規 フォルダー名を入力します</ja-JP>
+  </phrase>
+  <phrase key="Environment">
+    <ja-JP>環境</ja-JP>
+  </phrase>
+  <phrase key="Error occurred in upgrade step">
+    <ja-JP>アップグレード中にエラーが発生しました</ja-JP>
+  </phrase>
+  <phrase key="Error ocurred while upgrading the SXA content.">
+    <ja-JP>SXA コンテンツをアップグレード中にエラーが発生しました。</ja-JP>
+  </phrase>
+  <phrase key="Error page did not load. Make sure you published your content.">
+    <ja-JP>エラー ページを読み込みませんでした。コンテンツがパブリッシュされていることを確認してください。</ja-JP>
+  </phrase>
+  <phrase key="Error while downloading {0} file.">
+    <ja-JP>{0} ファイルをダウンロード中にエラーが発生しました。</ja-JP>
+  </phrase>
+  <phrase key="Error while downloading {0} page.">
+    <ja-JP>{0} ページをダウンロード中にエラーが発生しました。</ja-JP>
+  </phrase>
+  <phrase key="Event Calendar">
+    <ja-JP>イベント カレンダー</ja-JP>
+  </phrase>
+  <phrase key="Event List">
+    <ja-JP>イベント リスト</ja-JP>
+  </phrase>
+  <phrase key="Events">
+    <ja-JP>イベント</ja-JP>
+  </phrase>
+  <phrase key="Exception while adding {0} file.">
+    <ja-JP>{0} ファイルを追加中に例外が発生しました。</ja-JP>
+  </phrase>
+  <phrase key="Exception while loading css class from the {0} string.">
+    <ja-JP>{0} 文字列から css クラスを読み込み中に例外が発生しました。</ja-JP>
+  </phrase>
+  <phrase key="Exception while reading {0} page.">
+    <ja-JP>{0} ページを読み込み中に例外が発生しました。</ja-JP>
+  </phrase>
+  <phrase key="Existing Language">
+    <ja-JP>既存の言語</ja-JP>
+  </phrase>
+  <phrase key="Export complete">
+    <ja-JP>エクスポートが完了しました</ja-JP>
+  </phrase>
+  <phrase key="Export failed. There is no storage definition in the site.">
+    <ja-JP>エクスポートに失敗しました。サイトにストレージの定義がありません。</ja-JP>
+  </phrase>
+  <phrase key="Export in progress. This can take several minutes.">
+    <ja-JP>エクスポートが進行中です。処理に数分掛かる場合があります。</ja-JP>
+  </phrase>
+  <phrase key="Export settings">
+    <ja-JP>設定をエクスポートします</ja-JP>
+  </phrase>
+  <phrase key="Export to">
+    <ja-JP>エクスポート先</ja-JP>
+  </phrase>
+  <phrase key="Export took:">
+    <ja-JP>Export took:</ja-JP>
+  </phrase>
+  <phrase key="Exported content">
+    <ja-JP>エクスポートするコンテンツ</ja-JP>
+  </phrase>
+  <phrase key="Exporting">
+    <ja-JP>エクスポート中</ja-JP>
+  </phrase>
+  <phrase key="Exporting...">
+    <ja-JP>エクスポートしています...</ja-JP>
+  </phrase>
+  <phrase key="Extending template with: '{0}'">
+    <ja-JP>テンプレートを '{0}' で拡張中</ja-JP>
+  </phrase>
+  <phrase key="External Link">
+    <ja-JP>外部リンク</ja-JP>
+  </phrase>
+  <phrase key="Facet for {0} is empty.">
+    <ja-JP>{0} のファセットが空です。</ja-JP>
+  </phrase>
+  <phrase key="Facet Slider">
+    <ja-JP>ファセット スライダー</ja-JP>
+  </phrase>
+  <phrase key="Facet Summary">
+    <ja-JP>ファセット サマリー</ja-JP>
+  </phrase>
+  <phrase key="Favicon">
+    <ja-JP>ファビコン</ja-JP>
+  </phrase>
+  <phrase key="Field '{0}' needs to start with '/'">
+    <ja-JP>フィールド「{0}」は「/」で開始する必要があります</ja-JP>
+  </phrase>
+  <phrase key="Field Editor">
+    <ja-JP>フィールド エディター</ja-JP>
+  </phrase>
+  <phrase key="File List">
+    <ja-JP>ファイル リスト</ja-JP>
+  </phrase>
+  <phrase key="Filter">
+    <ja-JP>フィルター</ja-JP>
+  </phrase>
+  <phrase key="Filter by style name or css class.">
+    <ja-JP>スタイル名または css クラスでフィルタリングします。</ja-JP>
+  </phrase>
+  <phrase key="First">
+    <ja-JP>最初</ja-JP>
+  </phrase>
+  <phrase key="Flip">
+    <ja-JP>フリップ</ja-JP>
+  </phrase>
+  <phrase key="Folder on server">
+    <ja-JP>サーバー上のフォルダー</ja-JP>
+  </phrase>
+  <phrase key="Forms">
+    <ja-JP>フォーム</ja-JP>
+  </phrase>
+  <phrase key="Full url:">
+    <ja-JP>フル URL:</ja-JP>
+  </phrase>
+  <phrase key="Gallery">
+    <ja-JP>ギャラリー</ja-JP>
+  </phrase>
+  <phrase key="General">
+    <ja-JP>一般</ja-JP>
+  </phrase>
+  <phrase key="Generating static error page">
+    <ja-JP>静的エラー ページを生成中</ja-JP>
+  </phrase>
+  <phrase key="Generic Meta Rendering">
+    <ja-JP>Generic Meta Rendering</ja-JP>
+  </phrase>
+  <phrase key="Getting scaffolding actions">
+    <ja-JP>スキャフォールディング アクションを取得中</ja-JP>
+  </phrase>
+  <phrase key="Getting site collection item">
+    <ja-JP>サイトコレクションアイテムを取得中</ja-JP>
+  </phrase>
+  <phrase key="Getting site collection templates">
+    <ja-JP>サイトコレクションテンプレートを取得中</ja-JP>
+  </phrase>
+  <phrase key="Getting upgrade information">
+    <ja-JP>アップグレード情報を取得しています</ja-JP>
+  </phrase>
+  <phrase key="Getting upgrade step dialog/default values">
+    <ja-JP>アップグレード手順ダイアログ/デフォルト値を取得しています</ja-JP>
+  </phrase>
+  <phrase key="Getting valid site collection definitions">
+    <ja-JP>有効なサイトコレクション定義を取得中</ja-JP>
+  </phrase>
+  <phrase key="Getting valid site definitions">
+    <ja-JP>有効なサイト定義を取得しています</ja-JP>
+  </phrase>
+  <phrase key="Grid">
+    <ja-JP>グリッド</ja-JP>
+  </phrase>
+  <phrase key="Handling result">
+    <ja-JP>処理結果</ja-JP>
+  </phrase>
+  <phrase key="Hidden domains">
+    <ja-JP>非表示のドメイン</ja-JP>
+  </phrase>
+  <phrase key="Horizon datasource grouping">
+    <ja-JP>水平データソースのグループ化</ja-JP>
+  </phrase>
+  <phrase key="Host">
+    <ja-JP>ホスト</ja-JP>
+  </phrase>
+  <phrase key="Host name">
+    <ja-JP>ホスト名</ja-JP>
+  </phrase>
+  <phrase key="How long the data is cached on the server (in minutes)">
+    <ja-JP>データがサーバーでキャッシュされる時間（分）</ja-JP>
+  </phrase>
+  <phrase key="Icon">
+    <ja-JP>アイコン</ja-JP>
+  </phrase>
+  <phrase key="Identifiers cannot start with a digit, or a hyphen followed by a digit">
+    <ja-JP>識別子は数字または数字が後に続くハイフンで始めることはできません。</ja-JP>
+  </phrase>
+  <phrase key="IFrame">
+    <ja-JP>IFrame</ja-JP>
+  </phrase>
+  <phrase key="Ignore">
+    <ja-JP>無視</ja-JP>
+  </phrase>
+  <phrase key="Image">
+    <ja-JP>__標準値</ja-JP>
+  </phrase>
+  <phrase key="Import complete">
+    <ja-JP>インポートが完了しました</ja-JP>
+  </phrase>
+  <phrase key="Import failed. Restricted themes are affected: {0}.">
+    <ja-JP>インポートは失敗しました。制限付きテーマは影響を受けます: {0}</ja-JP>
+  </phrase>
+  <phrase key="Import failed. There is no language information in the zip file.">
+    <ja-JP>インポートに失敗しました。 zipファイルに言語情報が含まれていません。</ja-JP>
+  </phrase>
+  <phrase key="Import failed. There is no storage definition in the site.">
+    <ja-JP>インポートは失敗しました。サイトにストレージ定義がありません。</ja-JP>
+  </phrase>
+  <phrase key="Import from">
+    <ja-JP>インポート元</ja-JP>
+  </phrase>
+  <phrase key="Import in progress. This can take several minutes.">
+    <ja-JP>インポートを実行中です。数分掛かる場合があります。</ja-JP>
+  </phrase>
+  <phrase key="Import settings">
+    <ja-JP>設定をインポートします</ja-JP>
+  </phrase>
+  <phrase key="Importing">
+    <ja-JP>インポート実行中</ja-JP>
+  </phrase>
+  <phrase key="Importing...">
+    <ja-JP>インポートしています...</ja-JP>
+  </phrase>
+  <phrase key="Include">
+    <ja-JP>含める</ja-JP>
+  </phrase>
+  <phrase key="Incompatible SXA version installed.">
+    <ja-JP>互換性がない SXA バージョンがインストールされました。</ja-JP>
+  </phrase>
+  <phrase key="Information">
+    <ja-JP>レンダリング情報</ja-JP>
+  </phrase>
+  <phrase key="Inherit from existing datasource">
+    <ja-JP>既存のデータソースから継承</ja-JP>
+  </phrase>
+  <phrase key="Inherit from existing rendering parameters">
+    <ja-JP>既存のレンダリング パラメーターから継承</ja-JP>
+  </phrase>
+  <phrase key="Initializing presentation">
+    <ja-JP>プレゼンテーションを初期化中</ja-JP>
+  </phrase>
+  <phrase key="Insert">
+    <ja-JP>コンテンツを挿入</ja-JP>
+  </phrase>
+  <phrase key="Insert a link">
+    <ja-JP>リンクを挿入</ja-JP>
+  </phrase>
+  <phrase key="Insert ContentToken">
+    <ja-JP>コンテンツ トークンを挿入します</ja-JP>
+  </phrase>
+  <phrase key="Insert Media Item">
+    <ja-JP>メディア アイテムを挿入</ja-JP>
+  </phrase>
+  <phrase key="Installing: '{0}' module">
+    <ja-JP>インストール中: '{0}' モジュール</ja-JP>
+  </phrase>
+  <phrase key="Internal Link">
+    <ja-JP>内部リンク</ja-JP>
+  </phrase>
+  <phrase key="Invalid file name. Make sure the new view file name does not contain invalid characters, and ends with .cshtml.">
+    <ja-JP>ファイル名が無効です。新規のビュー ファイル名には無効な文字が含まれないようにしてください。また、.cshtml で終わるようにしてください。</ja-JP>
+  </phrase>
+  <phrase key="Invalid location. Cloned sites can only be located under site collections and site folders.">
+    <ja-JP>無効なロケーションです。複製されたサイトは、サイトコレクションとサイトフォルダにのみ配置できます。</ja-JP>
+  </phrase>
+  <phrase key="Invoking scripts from scaffolding actions">
+    <ja-JP>スキャフォールディング アクションからスクリプトを呼び出し中</ja-JP>
+  </phrase>
+  <phrase key="Invoking site collection post setup steps">
+    <ja-JP>セットアップ手順後にサイトコレクションを呼び出し中</ja-JP>
+  </phrase>
+  <phrase key="Invoking upgrade step">
+    <ja-JP>アップグレード手順を実行しています</ja-JP>
+  </phrase>
+  <phrase key="is a Sitecore Experience Accelerator rendering and can only be used on a page in an SXA site.">
+    <ja-JP>はSitecoreエクスペリエンスアクセラレーターレンダリングです。SXAサイトのページでのみ使用できます。</ja-JP>
+  </phrase>
+  <phrase key="Item with ID {0} cannot be found. Unable to relink rendering.">
+    <ja-JP>ID {0} を持つアイテムは見つかりません。レンダリングを再リンクできません。</ja-JP>
+  </phrase>
+  <phrase key="Item:">
+    <ja-JP>アイテム：</ja-JP>
+  </phrase>
+  <phrase key="Items cannot be placed directly in the root folder - please upload your file under one of its subfolder">
+    <ja-JP>アイテムはルート フォルダー内に直接配置できません。- サブフォルダー配下にファイルをアップロードしてください。</ja-JP>
+  </phrase>
+  <phrase key="JavaScript">
+    <ja-JP>Javascript</ja-JP>
+  </phrase>
+  <phrase key="JavaScript:">
+    <ja-JP>JavaScript：</ja-JP>
+  </phrase>
+  <phrase key="Json">
+    <ja-JP>Json</ja-JP>
+  </phrase>
+  <phrase key="JSON Content">
+    <ja-JP>JSON コンテンツ</ja-JP>
+  </phrase>
+  <phrase key="JSON List">
+    <ja-JP>JSON リスト</ja-JP>
+  </phrase>
+  <phrase key="JSON Results">
+    <ja-JP>JSON 結果</ja-JP>
+  </phrase>
+  <phrase key="Language">
+    <ja-JP>言語</ja-JP>
+  </phrase>
+  <phrase key="Language Selector">
+    <ja-JP>言語 セレクター</ja-JP>
+  </phrase>
+  <phrase key="Last">
+    <ja-JP>最後</ja-JP>
+  </phrase>
+  <phrase key="Link">
+    <ja-JP>リンク</ja-JP>
+  </phrase>
+  <phrase key="Link Description:">
+    <ja-JP>リンクの説明：</ja-JP>
+  </phrase>
+  <phrase key="Link List">
+    <ja-JP>リンク リスト</ja-JP>
+  </phrase>
+  <phrase key="Load More">
+    <ja-JP>結果をさらに表示</ja-JP>
+  </phrase>
+  <phrase key="Local">
+    <ja-JP>ローカル</ja-JP>
+  </phrase>
+  <phrase key="Location Filter">
+    <ja-JP>ロケーション フィルター</ja-JP>
+  </phrase>
+  <phrase key="Login">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase key="Logout">
+    <ja-JP>ログオフ</ja-JP>
+  </phrase>
+  <phrase key="Mail">
+    <ja-JP>メール</ja-JP>
+  </phrase>
+  <phrase key="Mailto:">
+    <ja-JP>メールの宛先：</ja-JP>
+  </phrase>
+  <phrase key="Make a copy of original datasource">
+    <ja-JP>元のデータソースのコピーを作成</ja-JP>
+  </phrase>
+  <phrase key="Make a copy of original rendering parameters">
+    <ja-JP>元のレンダリング パラメーターのコピーを作成</ja-JP>
+  </phrase>
+  <phrase key="Manage the Content Items">
+    <ja-JP>コンテンツ項目を管理</ja-JP>
+  </phrase>
+  <phrase key="Managed Range Filter">
+    <ja-JP>管理された範囲フィルター</ja-JP>
+  </phrase>
+  <phrase key="Map">
+    <ja-JP>マップ</ja-JP>
+  </phrase>
+  <phrase key="Maps">
+    <ja-JP>マップ</ja-JP>
+  </phrase>
+  <phrase key="Media">
+    <ja-JP>メディア</ja-JP>
+  </phrase>
+  <phrase key="Media Browser">
+    <ja-JP>メディア ブラウザー</ja-JP>
+  </phrase>
+  <phrase key="Media folder {0} created below {1} node.">
+    <ja-JP>メディア フォルダー {0} は {1} ノードの下に作成されました。</ja-JP>
+  </phrase>
+  <phrase key="Media item cannot be found. Unable to relink image on item {0} to {1}.">
+    <ja-JP>メディア アイテムが見つかりません。アイテム {0} の画像を {1} へ再リンクできません。</ja-JP>
+  </phrase>
+  <phrase key="Media item recycled:">
+    <ja-JP>リサイクルされたメディア アイテム：</ja-JP>
+  </phrase>
+  <phrase key="Media item updated:">
+    <ja-JP>メディア アイテム更新日時:</ja-JP>
+  </phrase>
+  <phrase key="Media Library">
+    <ja-JP>メディア ライブラリ</ja-JP>
+  </phrase>
+  <phrase key="Media Link">
+    <ja-JP>メディア リンク</ja-JP>
+  </phrase>
+  <phrase key="Messages:">
+    <ja-JP>メッセージ:</ja-JP>
+  </phrase>
+  <phrase key="Missing file name. You must give the new view file a valid name.">
+    <ja-JP>ファイル名がありません。新規のビュー ファイルに有効な名前を付ける必要があります。</ja-JP>
+  </phrase>
+  <phrase key="Missing Sitecore Experience Accelerator license">
+    <ja-JP>Sitecore Experience Acceleratorライセンスがありません</ja-JP>
+  </phrase>
+  <phrase key="Mode">
+    <ja-JP>モード</ja-JP>
+  </phrase>
+  <phrase key="Module name">
+    <ja-JP>モジュール名</ja-JP>
+  </phrase>
+  <phrase key="Module scaffolding actions">
+    <ja-JP>モジュール スキャフォールディング アクション</ja-JP>
+  </phrase>
+  <phrase key="Modules">
+    <ja-JP>モジュール</ja-JP>
+  </phrase>
+  <phrase key="Move Down">
+    <ja-JP>下へ移動</ja-JP>
+  </phrase>
+  <phrase key="Move Up">
+    <ja-JP>上へ移動</ja-JP>
+  </phrase>
+  <phrase key="Multiple layout information for the {0} device on the {1} page.">
+    <ja-JP>{1} ページの {0} デバイスの複数レイアウト情報</ja-JP>
+  </phrase>
+  <phrase key="Name">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase key="Name:">
+    <ja-JP>コンテンツ アイテム名：</ja-JP>
+  </phrase>
+  <phrase key="Navigate to the source item.">
+    <ja-JP>ソース アイテムへ移動します。</ja-JP>
+  </phrase>
+  <phrase key="Navigation">
+    <ja-JP>ナビゲーション</ja-JP>
+  </phrase>
+  <phrase key="New browser">
+    <ja-JP>新しいブラウザー</ja-JP>
+  </phrase>
+  <phrase key="New language">
+    <ja-JP>新しい言語</ja-JP>
+  </phrase>
+  <phrase key="New rendering name">
+    <ja-JP>新しいレンダリング名</ja-JP>
+  </phrase>
+  <phrase key="New site">
+    <ja-JP>新規サイト</ja-JP>
+  </phrase>
+  <phrase key="New site collection">
+    <ja-JP>新しいサイトコレクション</ja-JP>
+  </phrase>
+  <phrase key="New style added to page {0} rendering {1} property {2}: {3}.">
+    <ja-JP>新しいスタイルが追加 ページ {0} レンダリング {1} プロパティ {2}: {3}.</ja-JP>
+  </phrase>
+  <phrase key="New style item created for rendering {0}: {1}.">
+    <ja-JP>レンダリング {0} 用に作成された新しいスタイル アイテム: {1}</ja-JP>
+  </phrase>
+  <phrase key="New theme name">
+    <ja-JP>新規 テーマ 名</ja-JP>
+  </phrase>
+  <phrase key="No">
+    <ja-JP>いいえ</ja-JP>
+  </phrase>
+  <phrase key="No domains defined">
+    <ja-JP>ドメインが定義されていません</ja-JP>
+  </phrase>
+  <phrase key="No items available. Perform a search to locate the relevant item.">
+    <ja-JP>利用可能なアイテムがありません。検索を実行し関連するアイテムを探してください。</ja-JP>
+  </phrase>
+  <phrase key="No renderings can be added to the page at this time.">
+    <ja-JP>現時点でページに追加できるレンダリングはありません。</ja-JP>
+  </phrase>
+  <phrase key="No token item found.">
+    <ja-JP>トークン アイテムが見つかりませんでした。</ja-JP>
+  </phrase>
+  <phrase key="No undeployed modules found.">
+    <ja-JP>配置されていないモジュールは見つかりませんでした。</ja-JP>
+  </phrase>
+  <phrase key="Nothing to add. There are no compatible templates available">
+    <ja-JP>追加するものはありません。 使用可能な互換性のあるテンプレートがありません</ja-JP>
+  </phrase>
+  <phrase key="Ok">
+    <ja-JP>Ok</ja-JP>
+  </phrase>
+  <phrase key="OK">
+    <ja-JP>OK</ja-JP>
+  </phrase>
+  <phrase key="One of template">
+    <ja-JP>テンプレート毎に１つ含める</ja-JP>
+  </phrase>
+  <phrase key="Open">
+    <ja-JP>開く</ja-JP>
+  </phrase>
+  <phrase key="Open Item">
+    <ja-JP>アイテムを開く</ja-JP>
+  </phrase>
+  <phrase key="Open the Properties dialog box immediately.">
+    <ja-JP>選択後にプロパティ ダイアログ ボックスを開く</ja-JP>
+  </phrase>
+  <phrase key="OpenGraphMetaData">
+    <ja-JP>グラフのメタデータを開く</ja-JP>
+  </phrase>
+  <phrase key="Opening new site dialog">
+    <ja-JP>新規サイト ダイアログを開いています</ja-JP>
+  </phrase>
+  <phrase key="Opening the new site collection dialog">
+    <ja-JP>新しいサイトコレクションダイアログを開いています</ja-JP>
+  </phrase>
+  <phrase key="Operation cannot be finished. Unable to determine item template based on insert options.">
+    <ja-JP>操作は終了できません。挿入オプションに基づいたアイテム テンプレートを決定できません。</ja-JP>
+  </phrase>
+  <phrase key="Organize styles into folders">
+    <ja-JP>スタイルをフォルダーにまとめます</ja-JP>
+  </phrase>
+  <phrase key="Organizing your styles">
+    <ja-JP>スタイルをまとめています</ja-JP>
+  </phrase>
+  <phrase key="Package Metadata">
+    <ja-JP>パッケージ メタデータ</ja-JP>
+  </phrase>
+  <phrase key="Package Name">
+    <ja-JP>パッケージ名</ja-JP>
+  </phrase>
+  <phrase key="Package name:">
+    <ja-JP>パッケージ名</ja-JP>
+  </phrase>
+  <phrase key="Page {0} contains broken renderings.">
+    <ja-JP>ページ {0} に壊れたレンダリングが含まれています。</ja-JP>
+  </phrase>
+  <phrase key="Page Content">
+    <ja-JP>ページ コンテンツ</ja-JP>
+  </phrase>
+  <phrase key="Page could not be downloaded from the server.">
+    <ja-JP>サーバーからページをダウンロードできませんでした。</ja-JP>
+  </phrase>
+  <phrase key="Page layout as JSON">
+    <ja-JP>JSON としてのページ レイアウト</ja-JP>
+  </phrase>
+  <phrase key="Page List">
+    <ja-JP>ページ リスト</ja-JP>
+  </phrase>
+  <phrase key="Page Selector">
+    <ja-JP>ページ セレクター</ja-JP>
+  </phrase>
+  <phrase key="Page Size">
+    <ja-JP>ページ サイズ</ja-JP>
+  </phrase>
+  <phrase key="Page Structure">
+    <ja-JP>ページ 構造</ja-JP>
+  </phrase>
+  <phrase key="Page template">
+    <ja-JP>ページテンプレート</ja-JP>
+  </phrase>
+  <phrase key="Pages in buckets">
+    <ja-JP>バケット内のページ</ja-JP>
+  </phrase>
+  <phrase key="Pagination">
+    <ja-JP>ページネーション</ja-JP>
+  </phrase>
+  <phrase key="Parameters">
+    <ja-JP>パラメーター</ja-JP>
+  </phrase>
+  <phrase key="Parent:">
+    <ja-JP>親：</ja-JP>
+  </phrase>
+  <phrase key="Partial Design '{0}' used by the current design">
+    <ja-JP>現在のデザインによって使用されるパーシャルデザイン「{0}」</ja-JP>
+  </phrase>
+  <phrase key="Path">
+    <ja-JP>パス</ja-JP>
+  </phrase>
+  <phrase key="Path to rendering view">
+    <ja-JP>レンダリング表示へのパス</ja-JP>
+  </phrase>
+  <phrase key="Pick or approve security roles used for {0}.">
+    <ja-JP>{0} に使用されるセキュリティ ロールを選択または承認</ja-JP>
+  </phrase>
+  <phrase key="Placeholder key:">
+    <ja-JP>プレースホルダー キー:</ja-JP>
+  </phrase>
+  <phrase key="Plain HTML">
+    <ja-JP>プレーン HTML</ja-JP>
+  </phrase>
+  <phrase key="Playlist">
+    <ja-JP>プレイリスト</ja-JP>
+  </phrase>
+  <phrase key="Please download the package using the button below.">
+    <ja-JP>下のボタンを使いパッケージをダウンロードしてください</ja-JP>
+  </phrase>
+  <phrase key="Please provide datasource name">
+    <ja-JP>データソース名を入れてください。</ja-JP>
+  </phrase>
+  <phrase key="Please specify a name for the rendering.">
+    <ja-JP>レンダリングに名前を指定してください。</ja-JP>
+  </phrase>
+  <phrase key="Please specify a valid view path.">
+    <ja-JP>有効なビュー パスを指定してください。</ja-JP>
+  </phrase>
+  <phrase key="Preparing dialog options">
+    <ja-JP>ダイアログ オプションを準備しています</ja-JP>
+  </phrase>
+  <phrase key="Preparing new site dialog">
+    <ja-JP>新規サイト ダイアログを準備しています</ja-JP>
+  </phrase>
+  <phrase key="Priority image found for {0} item ID {2} field in the {1} file.">
+    <ja-JP>{1} ファイルに優先イメージが見つかりました {0} item ID {2} フィールド</ja-JP>
+  </phrase>
+  <phrase key="Proceed">
+    <ja-JP>続行します</ja-JP>
+  </phrase>
+  <phrase key="Processing">
+    <ja-JP>処理中</ja-JP>
+  </phrase>
+  <phrase key="Processing step">
+    <ja-JP>処理手順</ja-JP>
+  </phrase>
+  <phrase key="Promo">
+    <ja-JP>プロモ</ja-JP>
+  </phrase>
+  <phrase key="Publish the site before using end user export mode.">
+    <ja-JP>エンド ユーザー エクスポート モードを使用する前にサイトをパブリッシュします。</ja-JP>
+  </phrase>
+  <phrase key="Publisher">
+    <ja-JP>公開者</ja-JP>
+  </phrase>
+  <phrase key="Publishing grouping template">
+    <ja-JP>グループ化テンプレートを公開中</ja-JP>
+  </phrase>
+  <phrase key="Query String:">
+    <ja-JP>クエリ文字列：</ja-JP>
+  </phrase>
+  <phrase key="Radius Filter">
+    <ja-JP>半径 フィルター</ja-JP>
+  </phrase>
+  <phrase key="Range Slider Filter">
+    <ja-JP>範囲スライダー フィルター</ja-JP>
+  </phrase>
+  <phrase key="Readme">
+    <ja-JP>Readme</ja-JP>
+  </phrase>
+  <phrase key="Rebuild Link Database">
+    <ja-JP>リンク データベースを再構築</ja-JP>
+  </phrase>
+  <phrase key="Rebuilding the Link database.">
+    <ja-JP>リンク データベースを再構築中</ja-JP>
+  </phrase>
+  <phrase key="Recommendation">
+    <ja-JP>推奨</ja-JP>
+  </phrase>
+  <phrase key="Refresh">
+    <ja-JP>更新</ja-JP>
+  </phrase>
+  <phrase key="Refresh the folder tree">
+    <ja-JP>フォルダツリーを更新</ja-JP>
+  </phrase>
+  <phrase key="Register the shared content as a delegated area.">
+    <ja-JP>共有コンテンツをデリゲート エリアとして登録します。</ja-JP>
+  </phrase>
+  <phrase key="Remove all additional media items.">
+    <ja-JP>追加のメディア アイテムを全て削除します。</ja-JP>
+  </phrase>
+  <phrase key="Remove All and Close">
+    <ja-JP>すべて削除して閉じる</ja-JP>
+  </phrase>
+  <phrase key="Remove this media item.">
+    <ja-JP>このメディア アイテムを削除します。</ja-JP>
+  </phrase>
+  <phrase key="Rendering CSS class">
+    <ja-JP>レンダリング CSS クラス</ja-JP>
+  </phrase>
+  <phrase key="Rendering datasource cannot be created. Rendering datasource template is not set.">
+    <ja-JP>レンダリング データソースは作成できません。レンダリング データソース テンプレートが設定されていません。</ja-JP>
+  </phrase>
+  <phrase key="Rendering definition item cannot be found">
+    <ja-JP>レンダリング定義アイテムが見つかりません。</ja-JP>
+  </phrase>
+  <phrase key="Rendering parameters">
+    <ja-JP>レンダリング パラメーター</ja-JP>
+  </phrase>
+  <phrase key="Rendering Parameters">
+    <ja-JP>レンダリング パラメーター</ja-JP>
+  </phrase>
+  <phrase key="Rendering template">
+    <ja-JP>レンダリング テンプレート</ja-JP>
+  </phrase>
+  <phrase key="Resolve IDs before importing the {0} page. The rendering IDs are not unique for the page.">
+    <ja-JP>{0} ページをインポートする前にIDを解決します。レンダリングIDはページに固有ではありません。</ja-JP>
+  </phrase>
+  <phrase key="Result">
+    <ja-JP>結果</ja-JP>
+  </phrase>
+  <phrase key="Results">
+    <ja-JP>結果</ja-JP>
+  </phrase>
+  <phrase key="Results Count">
+    <ja-JP>検索結果数</ja-JP>
+  </phrase>
+  <phrase key="Results Variant Selector">
+    <ja-JP>結果 バリアント セレクター</ja-JP>
+  </phrase>
+  <phrase key="Reusable Image">
+    <ja-JP>再利用可能な画像</ja-JP>
+  </phrase>
+  <phrase key="Reusable Plain HTML">
+    <ja-JP>再利用可能なプレーンHTML</ja-JP>
+  </phrase>
+  <phrase key="ReusableRichText">
+    <ja-JP>再利用可能なリッチテキスト</ja-JP>
+  </phrase>
+  <phrase key="Review the errors below.">
+    <ja-JP>以下のエラーを確認します。</ja-JP>
+  </phrase>
+  <phrase key="Review the export results. Click the message for more details and click Next to proceed.">
+    <ja-JP>エクスポート結果を確認します。詳細はメッセージをクリックし、次へをクリックして次に進みます。</ja-JP>
+  </phrase>
+  <phrase key="Review the import results. Click the message for more details and click Next to proceed.">
+    <ja-JP>インポート結果を確認します。詳細はメッセージをクリックし、次へをクリックして次に進みます。</ja-JP>
+  </phrase>
+  <phrase key="RichText">
+    <ja-JP>リッチ テキスト</ja-JP>
+  </phrase>
+  <phrase key="Row Splitter">
+    <ja-JP>行 スプリッタ―</ja-JP>
+  </phrase>
+  <phrase key="Search">
+    <ja-JP>検索</ja-JP>
+  </phrase>
+  <phrase key="Search Box">
+    <ja-JP>検索 ボックス</ja-JP>
+  </phrase>
+  <phrase key="Search for Content">
+    <ja-JP>コンテンツを検索</ja-JP>
+  </phrase>
+  <phrase key="Search Results">
+    <ja-JP>検索結果</ja-JP>
+  </phrase>
+  <phrase key="Searching items roots">
+    <ja-JP>アイテム ルートを検索中</ja-JP>
+  </phrase>
+  <phrase key="Security">
+    <ja-JP>Security</ja-JP>
+  </phrase>
+  <phrase key="Security domain">
+    <ja-JP>セキュリティ ドメイン</ja-JP>
+  </phrase>
+  <phrase key="Select a file to download.">
+    <ja-JP>ダウンロードするファイルを選択してください。</ja-JP>
+  </phrase>
+  <phrase key="Select an item first.">
+    <ja-JP>最初にアイテムを選択してください。</ja-JP>
+  </phrase>
+  <phrase key="Select component variant">
+    <ja-JP>コンポーネントバリエーションを選択</ja-JP>
+  </phrase>
+  <phrase key="Select content token item.">
+    <ja-JP>コンテンツ トークン アイテムを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select data source behavior">
+    <ja-JP>データ ソース動作を選択</ja-JP>
+  </phrase>
+  <phrase key="Select Existing Content">
+    <ja-JP>既存のコンテンツを選択</ja-JP>
+  </phrase>
+  <phrase key="Select existing MVC view file (specify path below)">
+    <ja-JP>既存のMVC ビュー ファイルを選択（パスを以下に指定）</ja-JP>
+  </phrase>
+  <phrase key="Select existing placeholder settings.">
+    <ja-JP>既存のプレースホルダー設定を選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select existing settings.">
+    <ja-JP>既存の設定を選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select or search for the item that you want to insert.">
+    <ja-JP>挿入したいアイテムを選択または検索します。</ja-JP>
+  </phrase>
+  <phrase key="Select or search for the item that you want to open.">
+    <ja-JP>開きたいアイテムを選択または検索します。</ja-JP>
+  </phrase>
+  <phrase key="Select Page as a data source">
+    <ja-JP>データ ソースとしてページを選択</ja-JP>
+  </phrase>
+  <phrase key="Select Page Branch">
+    <ja-JP>ページブランチを選択</ja-JP>
+  </phrase>
+  <phrase key="Select page branch item">
+    <ja-JP>ページブランチ項目を選択</ja-JP>
+  </phrase>
+  <phrase key="Select page branch that you wish to choose.">
+    <ja-JP>選択するページブランチを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select Page Branch to use as an insert option">
+    <ja-JP>挿入オプションとして使用するページブランチを選択</ja-JP>
+  </phrase>
+  <phrase key="Select page design">
+    <ja-JP>ページ デザインを選択</ja-JP>
+  </phrase>
+  <phrase key="Select Page Design">
+    <ja-JP>ページ デザインを選択</ja-JP>
+  </phrase>
+  <phrase key="Select page design item">
+    <ja-JP>ページ デザイン アイテムを選択</ja-JP>
+  </phrase>
+  <phrase key="Select page design that you wish to choose.">
+    <ja-JP>選択したいページ デザインを選択してください。</ja-JP>
+  </phrase>
+  <phrase key="Select root to copy datasource">
+    <ja-JP>データソースをコピーするためにルートを選択</ja-JP>
+  </phrase>
+  <phrase key="Select the export settings. Click Next to proceed.">
+    <ja-JP>エクスポート設定を選択します。次へをクリックして次に進みます。</ja-JP>
+  </phrase>
+  <phrase key="Select the grid system that you want to use.">
+    <ja-JP>使用したいグリッド システムを選択します</ja-JP>
+  </phrase>
+  <phrase key="Select the import settings and click Next to proceed.">
+    <ja-JP>インポート設定を選択し、次へをクリックして次に進みます。</ja-JP>
+  </phrase>
+  <phrase key="Select the item and click Open.">
+    <ja-JP>アイテムを選択し「開く」をクリックします。</ja-JP>
+  </phrase>
+  <phrase key="Select the item that you want to link to and specify the properties.">
+    <ja-JP>リンクしたいアイテムを選択し、プロパティを指定します。</ja-JP>
+  </phrase>
+  <phrase key="Select the link type and specify the properties.">
+    <ja-JP>リンク タイプを選択し、プロパティを指定します。</ja-JP>
+  </phrase>
+  <phrase key="Select the modules that you want to add to the {0} site collection. The listed modules have not yet been added to the site collection.">
+    <ja-JP>{0}サイトコレクションに追加するモジュールを選択します。リストされたモジュールはまだサイトコレクションに追加されていません。</ja-JP>
+  </phrase>
+  <phrase key="Select the modules that you want to add to the {0} site. The listed modules have not yet been added to the site.">
+    <ja-JP>{0} サイトに追加したいモジュールを選択します。リスト内のモジュールはまだサイトに追加されていません。</ja-JP>
+  </phrase>
+  <phrase key="Select the modules that you want to use for the site collection.">
+    <ja-JP>サイトコレクションに使用するモジュールを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the modules that you want to use for the site.">
+    <ja-JP>サイトに使用したいモジュールを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the package.">
+    <ja-JP>パッケージを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the parent node for a new folder.">
+    <ja-JP>新規のフォルダーの親ノードを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the rendering for which you want to create allowed on templates settings for.">
+    <ja-JP>テンプレート設定で許可するレンダリングを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the rendering that you want to create datasource settings for.">
+    <ja-JP>データソース設定を作成したいレンダリングを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the rendering that you want to create theme configuration for.">
+    <ja-JP>テーマ構成を作成するレンダリングを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the root item and the name for the copy.">
+    <ja-JP>ルート アイテムとコピー用の名前を選択</ja-JP>
+  </phrase>
+  <phrase key="Select the site collections that you want to add the module to.">
+    <ja-JP>モジュールを追加するサイトコレクションを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the site(s) that you want to add the module to.">
+    <ja-JP>モジュールを追加したいサイトを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the site(s) that you want to add the Standard Values to.">
+    <ja-JP>標準値を追加するサイトを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the source package and click Next to proceed.">
+    <ja-JP>ソース パッケージを選択し、次へをクリックして次に進みます。</ja-JP>
+  </phrase>
+  <phrase key="Select the target grid.">
+    <ja-JP>ターゲット グリッドを選択します。</ja-JP>
+  </phrase>
+  <phrase key="Select the variable that you want to insert.">
+    <ja-JP>挿入したい変数を選択します。</ja-JP>
+  </phrase>
+  <phrase key="Selected {0} language not found">
+    <ja-JP>選択された言語「{0}」が見つかりません</ja-JP>
+  </phrase>
+  <phrase key="Selected item or any of its ancestors is not a module or module does not contain all of required module folder roots ({0})">
+    <ja-JP>選択したアイテムまたはその親がモジュールではないか、またはモジュールに必要な全てのモジュール フォルダー ルート ({0}) が含まれていません 。</ja-JP>
+  </phrase>
+  <phrase key="Send a test mail.">
+    <ja-JP>テスト メールを送信します。</ja-JP>
+  </phrase>
+  <phrase key="SeoMetaData">
+    <ja-JP>SEOメタデータ</ja-JP>
+  </phrase>
+  <phrase key="Session timed out. Try again.">
+    <ja-JP>セッションがタイム アウトしました。もう一度お試しください。</ja-JP>
+  </phrase>
+  <phrase key="Set the grid details.">
+    <ja-JP>グリッド詳細を設定します。</ja-JP>
+  </phrase>
+  <phrase key="Setting site collection templates location.">
+    <ja-JP>サイトコレクションテンプレート場所の設定。</ja-JP>
+  </phrase>
+  <phrase key="Setting the default values">
+    <ja-JP>デフォルト値の設定</ja-JP>
+  </phrase>
+  <phrase key="Shared">
+    <ja-JP>共有</ja-JP>
+  </phrase>
+  <phrase key="Sharing content as a delegated area lets you control the content from one central location in the content tree.  When the clone is part of an SXA delegated area, it is managed by SXA, and cannot be changed locally.">
+    <ja-JP>デリゲート エリアとしてコンテンツを共有することは、コンテンツ ツリーの一か所のロケーションからコンテンツを管理することを可能にします。クローンがSXA デリゲート エリアの一部の場合、SXAにより管理されローカルでは変更できません。</ja-JP>
+  </phrase>
+  <phrase key="Show all">
+    <ja-JP>すべて表示</ja-JP>
+  </phrase>
+  <phrase key="Show selected">
+    <ja-JP>選択したものを表示します。</ja-JP>
+  </phrase>
+  <phrase key="Showing the results of upgrade steps.">
+    <ja-JP>アップグレード手順の結果を表示しています。</ja-JP>
+  </phrase>
+  <phrase key="Single page">
+    <ja-JP>単一ページ</ja-JP>
+  </phrase>
+  <phrase key="Site">
+    <ja-JP>サイト</ja-JP>
+  </phrase>
+  <phrase key="Site Collection">
+    <ja-JP>テナント</ja-JP>
+  </phrase>
+  <phrase key="Site collection name">
+    <ja-JP>サイトコレクション名</ja-JP>
+  </phrase>
+  <phrase key="Site collection templates">
+    <ja-JP>サイトコレクションテンプレート</ja-JP>
+  </phrase>
+  <phrase key="Site Collection Templates">
+    <ja-JP>サイトコレクションテンプレート</ja-JP>
+  </phrase>
+  <phrase key="Site Collections">
+    <ja-JP>サイトコレクション</ja-JP>
+  </phrase>
+  <phrase key="Site context">
+    <ja-JP>サイト コンテキスト</ja-JP>
+  </phrase>
+  <phrase key="Site location">
+    <ja-JP>サイトの場所</ja-JP>
+  </phrase>
+  <phrase key="Site Metadata">
+    <ja-JP>サイト メタデータ</ja-JP>
+  </phrase>
+  <phrase key="Site name">
+    <ja-JP>サイト名</ja-JP>
+  </phrase>
+  <phrase key="Site Settings">
+    <ja-JP>サイト設定</ja-JP>
+  </phrase>
+  <phrase key="Site theme name">
+    <ja-JP>Site theme name</ja-JP>
+  </phrase>
+  <phrase key="Sitecore Forms">
+    <ja-JP>Sitecore フォーム</ja-JP>
+  </phrase>
+  <phrase key="Sites">
+    <ja-JP>サイト</ja-JP>
+  </phrase>
+  <phrase key="SiteSelector">
+    <ja-JP>サイト セレクター</ja-JP>
+  </phrase>
+  <phrase key="SkipLink">
+    <ja-JP>リンクをスキップ</ja-JP>
+  </phrase>
+  <phrase key="Skipping item '{0}' because the device is null">
+    <ja-JP>デバイスが Null のため、アイテム '{0}' をスキップしています</ja-JP>
+  </phrase>
+  <phrase key="Snippet">
+    <ja-JP>スニペット</ja-JP>
+  </phrase>
+  <phrase key="Social">
+    <ja-JP>ソーシャル</ja-JP>
+  </phrase>
+  <phrase key="Social Login Wrapper">
+    <ja-JP>ソーシャル ログイン ラッパー</ja-JP>
+  </phrase>
+  <phrase key="Some upgrade steps were not performed successfully.">
+    <ja-JP>いくつかのアップグレード手順が正しく実行されませんでした</ja-JP>
+  </phrase>
+  <phrase key="Sort Results">
+    <ja-JP>結果の並び替え</ja-JP>
+  </phrase>
+  <phrase key="Standard Values have been created.">
+    <ja-JP>標準値が作成されました。</ja-JP>
+  </phrase>
+  <phrase key="State">
+    <ja-JP>状態</ja-JP>
+  </phrase>
+  <phrase key="Style Class:">
+    <ja-JP>スタイル クラス：</ja-JP>
+  </phrase>
+  <phrase key="Style removed from a page {0} rendering {1} property {2}: {3}.">
+    <ja-JP>ページ {0} レンダリング {1} プロパティ {2} から削除されたスタイル: {3}</ja-JP>
+  </phrase>
+  <phrase key="Styles to remove">
+    <ja-JP>削除するスタイル</ja-JP>
+  </phrase>
+  <phrase key="SXA delegated area">
+    <ja-JP>SXA デリゲート エリア</ja-JP>
+  </phrase>
+  <phrase key="SXA Layout cannot be edited on __Standard values because it requires the context of a site to detemine aspects of the component configuration such as the grid, classes and rendering variants. Please provide the default configuration for the page through Page Designs within your site.">
+    <ja-JP>SXAのレイアウトは__Standard values で編集できません。グリッド、クラス、およびレンダリング バリアントのようなコンポーネント構成の見た目を決定するためにサイトのコンテキストが必要なためです。サイト内でページ デザインを使用しページのデフォルトの構成を準備してください。</ja-JP>
+  </phrase>
+  <phrase key="SXA Site Manager">
+    <ja-JP>SXA サイト マネージャー</ja-JP>
+  </phrase>
+  <phrase key="SXA Upgrade finished">
+    <ja-JP>SXA アップグレードが完了しました</ja-JP>
+  </phrase>
+  <phrase key="SXA Upgrade requires further actions">
+    <ja-JP>SXA アップグレードには追加のアクションが必要です</ja-JP>
+  </phrase>
+  <phrase key="System areas for which container folders should be created">
+    <ja-JP>コンテナー フォルダーが作成されるシステム エリア</ja-JP>
+  </phrase>
+  <phrase key="Tabs">
+    <ja-JP>タブ</ja-JP>
+  </phrase>
+  <phrase key="Tag Cloud">
+    <ja-JP>タグ クラウド</ja-JP>
+  </phrase>
+  <phrase key="Tag List">
+    <ja-JP>タグ リスト</ja-JP>
+  </phrase>
+  <phrase key="Target Window:">
+    <ja-JP>ターゲット ウィンドウ：</ja-JP>
+  </phrase>
+  <phrase key="Taxonomy">
+    <ja-JP>分類</ja-JP>
+  </phrase>
+  <phrase key="Template {0} not found">
+    <ja-JP>テンプレート「{0}」が見つかりません</ja-JP>
+  </phrase>
+  <phrase key="Test">
+    <ja-JP>テスト</ja-JP>
+  </phrase>
+  <phrase key="Test the Component">
+    <ja-JP>コンポーネントのテスト</ja-JP>
+  </phrase>
+  <phrase key="That is not an SXA site.">
+    <ja-JP>SXAサイトではありません</ja-JP>
+  </phrase>
+  <phrase key="The {0} file was skipped because it is empty.">
+    <ja-JP>{0} ファイルは空のためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} file was skipped because it is hidden.">
+    <ja-JP>{0} ファイルは非表示のためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} file was skipped because it is in a hidden folder.">
+    <ja-JP>{0} ファイルは隠しフォルダー内にあるためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} file was skipped because it is larger than {1} KB.">
+    <ja-JP>{0} ファイルはサイズが {1} KBより大きいためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} file was skipped because the name contains more than one dot.">
+    <ja-JP>{0} ファイルは名前に2つ以上のドットを含むためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} folder does not exist on the server. You must export your site first.">
+    <ja-JP>{0} フォルダーはサーバーに存在しません。先にサイトをエクスポートしてください。</ja-JP>
+  </phrase>
+  <phrase key="The {0} item was not found.">
+    <ja-JP>{0} アイテムは見つかりませんでした。</ja-JP>
+  </phrase>
+  <phrase key="The {0} item was skipped because it has no layout.">
+    <ja-JP>{0} アイテムはレイアウトを持たないためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} item was skipped because the Never Publish checkbox is selected.">
+    <ja-JP>{0} アイテムは Never Publish チェックボックスが選択されているためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The {0} item was skipped because there is no version in the current language.">
+    <ja-JP>{0} アイテムは現在の言語にバージョンがないためスキップされました。</ja-JP>
+  </phrase>
+  <phrase key="The export failed.">
+    <ja-JP>エクスポートに失敗しました。</ja-JP>
+  </phrase>
+  <phrase key="The export succeeded.">
+    <ja-JP>エクスポートに成功しました。</ja-JP>
+  </phrase>
+  <phrase key="The field validator setup is incorrect. Please contact your administrator.">
+    <ja-JP>フィールド検証ツールの設定が正しくありません。 管理者にお問い合わせください。</ja-JP>
+  </phrase>
+  <phrase key="The folder does not exist. Make sure to select an existing folder.">
+    <ja-JP>フォルダーが存在しません。必ず存在するフォルダーを選択してください。</ja-JP>
+  </phrase>
+  <phrase key="The import failed.">
+    <ja-JP>インポートに失敗しました。</ja-JP>
+  </phrase>
+  <phrase key="The import succeeded.">
+    <ja-JP>インポートに成功しました。</ja-JP>
+  </phrase>
+  <phrase key="The installed version of SXA is not compatible with your current version of Sitecore. Install a compatible version of SXA.">
+    <ja-JP>インストールされたSXAのバージョンは、現在のSitecoreバージョンと互換性がありません。 SXAの互換バージョンをインストールします。</ja-JP>
+  </phrase>
+  <phrase key="The item clone is in a delegated area and it is protected from editing. Edit the source item by clicking the link.">
+    <ja-JP>アイテムのクローンはデリゲート エリアにあり、編集から保護されています。リンクをクリックしてソース アイテムを編集します。</ja-JP>
+  </phrase>
+  <phrase key="The item is in a delegated area.">
+    <ja-JP>このアイテムはデリゲート エリアにあります。</ja-JP>
+  </phrase>
+  <phrase key="The item with the same name already exists under this root. Please provide another name.">
+    <ja-JP>このルート配下に同じ名前を持つアイテムがすでに存在します。他の名前を使用してください。</ja-JP>
+  </phrase>
+  <phrase key="The layout information for the {0} device on the {1} page cannot be found.">
+    <ja-JP>ページ {1} の {0} デバイスのレイアウト情報は見つかりません。</ja-JP>
+  </phrase>
+  <phrase key="The length of the value is too long.&#xA;&#xA;Please specify a value of less than {0} characters.">
+    <ja-JP>値が長すぎます。
+
+値は {0} 文字以下で指定してください。</ja-JP>
+  </phrase>
+  <phrase key="The maximum size of a single file in the exported package in KB (empty = no limit):">
+    <ja-JP>エクスポートされるパッケージの中の単一ファイルの最大サイズ(KB) (空欄 = 制限なし):</ja-JP>
+  </phrase>
+  <phrase key="The media item that you selected does not exist.">
+    <ja-JP>選択したメディア アイテムは存在しません。</ja-JP>
+  </phrase>
+  <phrase key="The module has dependencies">
+    <ja-JP>モジュールには依存関係があります</ja-JP>
+  </phrase>
+  <phrase key="The module path does not exist.">
+    <ja-JP>モジュール パスは存在しません。</ja-JP>
+  </phrase>
+  <phrase key="The module you are trying to install requires the following modules to be installed first:">
+    <ja-JP>インストールしようとしているモジュールには、次のモジュールを先にインストールする必要があります。</ja-JP>
+  </phrase>
+  <phrase key="The name of the solution is too long">
+    <ja-JP>ソリューションの名前が長すぎます</ja-JP>
+  </phrase>
+  <phrase key="The name you entered uses invalid characters. CSS classes can contain only the characters [a-z0-9], hyphen (-) and underscore (_)">
+    <ja-JP>入力した名前に無効な文字が使われています。CSS クラスに使用できるのは、文字 [a-z0-9]、ハイフン (-)、アンダースコア (_) のみです。</ja-JP>
+  </phrase>
+  <phrase key="The number of items to display in the feed.">
+    <ja-JP>フィードに表示するアイテム数</ja-JP>
+  </phrase>
+  <phrase key="The page cannot be published to the following target(s): {0}. You need to publish the ancestor items first.">
+    <ja-JP>このページは次のターゲットにパブリッシュできません: {0}。最初に祖先のアイテムをパブリッシュする必要があります。</ja-JP>
+  </phrase>
+  <phrase key="The page is not based on {0} template. Ignoring the file.">
+    <ja-JP>このページは {0} テンプレートに基づいていません。ファイルを無視しています。</ja-JP>
+  </phrase>
+  <phrase key="The project directory of the node render engine does not exist. Ensure your JavaScript code has been deployed and that the configured path is correct.">
+    <ja-JP>ノードレンダリングエンジンのプロジェクトディレクトリが存在しません。 JavaScriptコードが配備され、設定されたパスが正しいことを確認してください。</ja-JP>
+  </phrase>
+  <phrase key="The Rendering Item is not specified or not saved.">
+    <ja-JP>レンダリング項目が指定されていないか、保存されていません。</ja-JP>
+  </phrase>
+  <phrase key="The site cannot be published to the following target(s): {0}. You need to publish the ancestor items first.">
+    <ja-JP>このページは次のターゲットにパブリッシュできません: {0}。最初に祖先のアイテムをパブリッシュする必要があります。</ja-JP>
+  </phrase>
+  <phrase key="The site has no theme assigned.">
+    <ja-JP>サイトにテーマが割り当てられていません。</ja-JP>
+  </phrase>
+  <phrase key="The Sitecore Experience Accelerator license key is missing in your Sitecore license file">
+    <ja-JP>Sitecore Experience AcceleratorライセンスキーがSitecoreライセンスファイルにありません</ja-JP>
+  </phrase>
+  <phrase key="The template that you selected doesn't have a base template {0}.">
+    <ja-JP>選択したテンプレートにはベース テンプレート {0} がありません。</ja-JP>
+  </phrase>
+  <phrase key="The template that you selected is not valid.">
+    <ja-JP>選択したテンプレートは無効です。</ja-JP>
+  </phrase>
+  <phrase key="The themes this site can use">
+    <ja-JP>このサイトが使用可能なテーマ</ja-JP>
+  </phrase>
+  <phrase key="The upgrade step returned an unknown result.">
+    <ja-JP>アップグレード設定が不明な結果を返しました。</ja-JP>
+  </phrase>
+  <phrase key="The variable does not have a key defined.">
+    <ja-JP>この変数は定義されたキーを持っていません。</ja-JP>
+  </phrase>
+  <phrase key="The view file does not exist.">
+    <ja-JP>ビュー ファイルが存在しません。</ja-JP>
+  </phrase>
+  <phrase key="The zip file contains {0} version of the site. Switch language to {0} before importing the zip file.">
+    <ja-JP>zip ファイルにはサイトの {0} バージョンが含まれます。zipファイルをインポートする前に言語を {0} に切り替えます。</ja-JP>
+  </phrase>
+  <phrase key="Theme">
+    <ja-JP>テーマ</ja-JP>
+  </phrase>
+  <phrase key="Theme location">
+    <ja-JP>テーマの場所</ja-JP>
+  </phrase>
+  <phrase key="There are {0} conflicts in the site manager.">
+    <ja-JP>サイト マネージャーに {0} 競合があります。</ja-JP>
+  </phrase>
+  <phrase key="There are no changes to be made. Your content is now up to date.">
+    <ja-JP>行われる変更はありません。現在コンテンツは最新です。</ja-JP>
+  </phrase>
+  <phrase key="There are no items.">
+    <ja-JP>項目がありません。</ja-JP>
+  </phrase>
+  <phrase key="There are no renderings on the page. The Layout Service output will therefore be used in Preview and Normal mode.">
+    <ja-JP>ページにレンダリングがありません。従ってレイアウト サービス出力はプレビューおよびノーマル モードで使用されます。</ja-JP>
+  </phrase>
+  <phrase key="There are no site collections without this module">
+    <ja-JP>このモジュールが含まれないサイトコレクションはありません</ja-JP>
+  </phrase>
+  <phrase key="There are no sites without this module">
+    <ja-JP>このモジュールが無いサイトはありません。</ja-JP>
+  </phrase>
+  <phrase key="There are unsaved changes. &#xA;Do you want to save the changes to the item?">
+    <ja-JP>保存されていない変更があります。
+アイテムへの変更を保存しますか？</ja-JP>
+  </phrase>
+  <phrase key="There is a cyclic reference in your partial design.">
+    <ja-JP>パーシャル デザインに循環参照があります。</ja-JP>
+  </phrase>
+  <phrase key="This data source can be used in its original form or you can make a copy of it so you can change it locally without affecting the original version.&lt;br/&gt;&lt;br/&gt;Do you want to copy this data source?">
+    <ja-JP>このデータ ソースは元のフォームで使用できます。またはコピーを作成できます。それにより元のバージョンに影響することなくローカルで変更が可能です。&lt;br/&gt;&lt;br/&gt;このデータ ソースをコピーしますか？</ja-JP>
+  </phrase>
+  <phrase key="This is a delegated area and items cannot be added.">
+    <ja-JP>ここはデリゲート エリアですので、アイテムを追加できません。</ja-JP>
+  </phrase>
+  <phrase key="This operation publishes a list of site definition items and the site management item.">
+    <ja-JP>この操作はサイト定義アイテムのリストおよびサイト管理アイテムをパブリッシュします。</ja-JP>
+  </phrase>
+  <phrase key="This operation will delete the following components nested in the column/row:">
+    <ja-JP>この動作は列/行にネストされた次のコンポーネントを削除します：</ja-JP>
+  </phrase>
+  <phrase key="This script add a language to an existing site.">
+    <ja-JP>このスクリプトは既存のサイトに言語を追加します。</ja-JP>
+  </phrase>
+  <phrase key="This script clones an existing site.">
+    <ja-JP>このスクリプトは既存のサイトのクローンを作成します。</ja-JP>
+  </phrase>
+  <phrase key="This script creates a new headless site collection within your SXA-enabled instance.">
+    <ja-JP>このスクリプトはSXA対応インスタンス内に新しいヘッドレスサイトコレクションを作成します。</ja-JP>
+  </phrase>
+  <phrase key="This script creates a new Page Branch">
+    <ja-JP>このスクリプトは新しいページ ブランチを作成します</ja-JP>
+  </phrase>
+  <phrase key="This script creates a new site collection within your SXA-enabled instance.">
+    <ja-JP>このスクリプトはSXA対応インスタンス内に新しいサイトコレクションを作成します。</ja-JP>
+  </phrase>
+  <phrase key="This script creates Standard Values for your SXA site.">
+    <ja-JP>このスクリプトは、SXA サイトの標準値を作成します。</ja-JP>
+  </phrase>
+  <phrase key="This script removes unverified and unused styles.">
+    <ja-JP>このスクリプトは未検証および未使用のスタイルを削除します。</ja-JP>
+  </phrase>
+  <phrase key="This script will cleanup data sources from the Page Date folder.">
+    <ja-JP>このスクリプトは Page Date フォルダーからデータ ソースをクリーンアップします。</ja-JP>
+  </phrase>
+  <phrase key="This script will create a new fully functional Headless site within your SXA instance.">
+    <ja-JP>このスクリプトは、SXAインスタンス内に完全に機能する新しいヘッドレスサイトを作成します。</ja-JP>
+  </phrase>
+  <phrase key="This script will create a new fully functional site within your SXA instance.">
+    <ja-JP>このスクリプトはSXA インスタンス内に新しい完全に機能するサイトを作成します。</ja-JP>
+  </phrase>
+  <phrase key="This script will create a new SXA component.">
+    <ja-JP>本スクリプトは新規のSXA コンポーネントを作成します。</ja-JP>
+  </phrase>
+  <phrase key="This site already has all available modules deployed to it.">
+    <ja-JP>このサイトには全ての利用可能なモジュールがデプロイされています。</ja-JP>
+  </phrase>
+  <phrase key="This site collection already has all available modules deployed to it.">
+    <ja-JP>このサイトコレクションには、利用可能なすべてのモジュールが導入されています。</ja-JP>
+  </phrase>
+  <phrase key="This tool lets you quickly download the site collection as a package.">
+    <ja-JP>このツールを使用すると、サイトコレクションをパッケージとして簡単にダウンロードできます。</ja-JP>
+  </phrase>
+  <phrase key="Title">
+    <ja-JP>タイトル</ja-JP>
+  </phrase>
+  <phrase key="To define a variation for this test, click New Variation.">
+    <ja-JP>このテストのバリエーションを定義するには、[新しいバリエーション]をクリックします。</ja-JP>
+  </phrase>
+  <phrase key="to main content">
+    <ja-JP>メイン コンテンツへ</ja-JP>
+  </phrase>
+  <phrase key="To resolve site conflicts, reorder the site list or change the site definition.">
+    <ja-JP>サイトの競合を解決するには、サイト リストを並べ替えるまたはサイト定義を変更します。</ja-JP>
+  </phrase>
+  <phrase key="Toggle">
+    <ja-JP>トグル</ja-JP>
+  </phrase>
+  <phrase key="Toolbox">
+    <ja-JP>ツールボックス</ja-JP>
+  </phrase>
+  <phrase key="Try again">
+    <ja-JP>再度お試しください</ja-JP>
+  </phrase>
+  <phrase key="TwitterMetaData">
+    <ja-JP>Twitterメタデータ</ja-JP>
+  </phrase>
+  <phrase key="Type">
+    <ja-JP>タイプ</ja-JP>
+  </phrase>
+  <phrase key="Unable to complete the operation.">
+    <ja-JP>操作を完了できません。</ja-JP>
+  </phrase>
+  <phrase key="Unable to establish the current or required content version. Contact your system administrator.">
+    <ja-JP>現在のまたは必須のコンテンツ バージョンを構築できません。システム管理者に連絡してください。</ja-JP>
+  </phrase>
+  <phrase key="Unable to find the rendering with {0} id on the {1} page. Possibly, the rendering is loaded from the fallback device.">
+    <ja-JP>{1} ページに {0} idを持つレンダリングが見つかりません。レンダリングがフォールバック デバイスから読み込まれる可能性があります。</ja-JP>
+  </phrase>
+  <phrase key="Unable to find the sublayout for the ID:">
+    <ja-JP>次のIDのサブレイアウトが見つかりません。ID:</ja-JP>
+  </phrase>
+  <phrase key="Unable to import {0} because of restrictions.">
+    <ja-JP>制限があるため {0} をインポートできません。</ja-JP>
+  </phrase>
+  <phrase key="Unzipping the package failed. Make sure the zip archive is valid.">
+    <ja-JP>パッケージの解凍に失敗しました。Zip アーカイブが有効であるかご確認ください。</ja-JP>
+  </phrase>
+  <phrase key="Updating insert options for site collection templates">
+    <ja-JP>サイトコレクションテンプレートの挿入オプションを更新中</ja-JP>
+  </phrase>
+  <phrase key="Updating site collection settings">
+    <ja-JP>サイトコレクションの設定を更新</ja-JP>
+  </phrase>
+  <phrase key="Upgrade">
+    <ja-JP>アップグレード</ja-JP>
+  </phrase>
+  <phrase key="Upgrade steps pending">
+    <ja-JP>アップグレード手順保留中</ja-JP>
+  </phrase>
+  <phrase key="Upload">
+    <ja-JP>アップロード</ja-JP>
+  </phrase>
+  <phrase key="Upload a file">
+    <ja-JP>ファイルをアップロード</ja-JP>
+  </phrase>
+  <phrase key="URL to the feed (RSS or ATOM)">
+    <ja-JP>フィードへのURL  (RSS または ATOM)</ja-JP>
+  </phrase>
+  <phrase key="URL:">
+    <ja-JP>URL：</ja-JP>
+  </phrase>
+  <phrase key="Use original MVC view file">
+    <ja-JP>元のMVC ビュー ファイルを使用</ja-JP>
+  </phrase>
+  <phrase key="Used to set up the security for the site collection or site.">
+    <ja-JP>サイトコレクションまたはサイトのセキュリティを設定するために使用されました。</ja-JP>
+  </phrase>
+  <phrase key="Validating module dependencies for the {0} site.">
+    <ja-JP>{0} サイトのモジュール依存関係を検証中</ja-JP>
+  </phrase>
+  <phrase key="Variant">
+    <ja-JP>バリアント</ja-JP>
+  </phrase>
+  <phrase key="Version">
+    <ja-JP>バージョン</ja-JP>
+  </phrase>
+  <phrase key="Video">
+    <ja-JP>ビデオ</ja-JP>
+  </phrase>
+  <phrase key="View">
+    <ja-JP>ビュー</ja-JP>
+  </phrase>
+  <phrase key="Viewport">
+    <ja-JP>ビューポート</ja-JP>
+  </phrase>
+  <phrase key="Virtual folder">
+    <ja-JP>仮想フォルダー</ja-JP>
+  </phrase>
+  <phrase key="Yes">
+    <ja-JP>はい</ja-JP>
+  </phrase>
+  <phrase key="You are about to export the {0} version of the {1} site. This can take several minutes.">
+    <ja-JP>{1} サイトの {0} バージョンをエクスポートしようとしています。この処理は数分かかります。</ja-JP>
+  </phrase>
+  <phrase key="You are about to import the {0} version of the {1} site. This can take several minutes.">
+    <ja-JP>{1} サイトの {0} バージョンをインポートしようとしています。この処理は数分かかります。</ja-JP>
+  </phrase>
+  <phrase key="You are not allowed to create any items here.">
+    <ja-JP>この場所にアイテムを作成することは許可されていません。</ja-JP>
+  </phrase>
+  <phrase key="You cannot add renderings directly to the page design. Instead, add the renderings to the partial designs used by the page design.">
+    <ja-JP>ページデザインに直接レンダリングを追加することはできません。その代わりに、ページデザインに使用される一部のデザインにレンダリングを追加します。</ja-JP>
+  </phrase>
+  <phrase key="You have installed a new version of SXA but your content has not been upgraded. Your site may not function correctly until you upgrade your content.">
+    <ja-JP>SXAの新しいバージョンがインストールされていますが、コンテンツはアップグレードされていません。コンテンツをアップグレードするまでサイトが正常に機能しない場合があります。</ja-JP>
+  </phrase>
+  <phrase key="You must create or select a theme for your site to be able to style it.">
+    <ja-JP>サイトのスタイルを設定するには、サイトのテーマを作成または選択する必要があります。</ja-JP>
+  </phrase>
+  <phrase key="You must rebuild the Link database before you run the script.">
+    <ja-JP>スクリプトを実行する前にリンク データベースを再構築してください。</ja-JP>
+  </phrase>
+  <phrase key="You must upgrade the SXA content.">
+    <ja-JP>SXA コンテンツをアップグレードしてください。</ja-JP>
+  </phrase>
+  <phrase key="You must use an existing security domain or create a new one.">
+    <ja-JP>既存のセキュリティ ドメインを使用するまたは新しくセキュリティ ドメインを作成してください。</ja-JP>
+  </phrase>
+  <phrase key="Your content is up to date.">
+    <ja-JP>コンテンツは最新です。</ja-JP>
+  </phrase>
+  <phrase key="Your site collection has been created.">
+    <ja-JP>サイトコレクションが作成されました。</ja-JP>
+  </phrase>
+  <phrase key="Your site has been created.">
+    <ja-JP>サイトが作成されました。</ja-JP>
+  </phrase>
+  <phrase key="Your site has been exported in {0} mode. This mode does not reflect your site’s look and feel and may cause problems for importing and editing.">
+    <ja-JP>サイトが{0}モードでエクスポートされました。 このモードはサイトの外観を反映しておらず、インポートや編集で問題が発生することがあります。</ja-JP>
+  </phrase>
+  <phrase key="Your site has no theme assigned. Make sure to select a theme or create a new one.">
+    <ja-JP>サイトにテーマが割り当てられていません。テーマを選択するまたは新規のテーマを作成してください。</ja-JP>
+  </phrase>
+  <phrase key="Your Sitecore instance has no domain collisions.">
+    <ja-JP>Sitecore インスタンスにドメインの競合はありません。</ja-JP>
+  </phrase>
+  <phrase key="Zip file">
+    <ja-JP>Zip ファイル</ja-JP>
+  </phrase>
+</sitecore>

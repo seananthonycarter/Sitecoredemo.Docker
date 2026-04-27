@@ -1,0 +1,31 @@
+﻿---
+ID: "407ef145-cc9b-47f8-a2c9-c1189054302c"
+Parent: "b7d1f8e1-9302-43ea-b61c-95f8eb233c34"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/sxastarter/sxastarter/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T081010Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0492e3c-8ba2-4932-8fd9-605ddcda5aaf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240529T081010Z
