@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Xml;
 
 namespace DockerStarter.Foundation.Pipelines
 {
@@ -12,58 +13,38 @@ namespace DockerStarter.Foundation.Pipelines
         public void Process(RenderFieldArgs args)
         {
             Assert.ArgumentNotNull(args, nameof(args));
-            if ((args.FieldTypeKey != "general link with search" && args.FieldTypeKey != "general link") || args.FieldTypeKey != "rich text" || string.IsNullOrWhiteSpace(args.Result.FirstPart))
-            {
-                return;
-            }
 
-            args.Result.FirstPart = UpdateToken(args.Result.FirstPart);
-            args.Result.LastPart = args.Result.LastPart;
+            int deviceVersion = 11; //TODO get current device type, header, query string
+
+            if (args.FieldTypeKey == "general link")
+            {
+                int minSupportDeviceForLink = GetMinimumDeviceTargetVersionFromLinkFieldValue(args.FieldValue);
+                if (deviceVersion < minSupportDeviceForLink)
+                {
+                    args.Result.FirstPart = string.Empty;
+                    args.Result.LastPart = string.Empty;
+                    args.DisableWebEdit = true;
+                    args.AbortPipeline();
+                }
+              
+            }
         }
 
-        private string UpdateToken(string fieldValue)
+        private int GetMinimumDeviceTargetVersionFromLinkFieldValue(string xmlFieldValue)
         {
-            if (fieldValue.Contains("$$contactid$$"))
-            {
-                fieldValue = GetTokenUpdateLink(fieldValue);
-            }
-            return fieldValue;
-        }
-
-        public static string GetTokenUpdateLink(string url)
-        {
-
+            int result = 0;
+       
             try
             {
-                var contactId = "contact id"; // write logic to get the contact id;
-                return url.Replace("$$contactid$$", contactId);
+                var doc = new XmlDocument();
+                doc.LoadXml(xmlFieldValue);
+                string textResult = doc.SelectSingleNode("/link")?.Attributes["minimumdevicetarget"]?.Value;
+                string minNumericDevice = new String(textResult.Where(Char.IsDigit).ToArray());
+                result = int.Parse(minNumericDevice);
             }
-            catch (Exception ex)
-            {
-                Log.Error("Issue with update token value for link" + ex.Message, true);
-            }
-            return url;
+            catch { }
+            return result;
         }
 
-        /// <summary>
-        /// Checks if the field should not be handled by the processor.
-        /// </summary>
-        /// <param name="args">The arguments.</param>
-        /// <returns>true if the field should not be handled by the processor; otherwise false</returns>
-        protected virtual bool SkipProcessor(RenderFieldArgs args)
-        {
-            if (args == null)
-            {
-                return true;
-            }
-
-            string fieldTypeKey = args.FieldTypeKey;
-            if (fieldTypeKey != "link")
-            {
-                return fieldTypeKey != "general link";
-            }
-
-            return false;
-        }
     }
 }
